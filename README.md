@@ -8,4 +8,7 @@
 > -**Kim Jong Un**
 
     npm install TicTacToe //totally works
+
+
+   /sudo summon TicTacToe
     
